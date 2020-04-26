@@ -1,0 +1,150 @@
+.top-container {
+  background-color: #e4f9f5;
+  margin: 0px;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  margin: 60px auto 0px auto;
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 70px;
+  color: #66bfbf;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  color: #66bfbf;
+  font-weight: lighter;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+a {
+  color: #11999e;
+  text-decoration: none;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", sans-serif;
+}
+.skill-row {
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.profile-pic {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  margin-top: 50px;
+}
+.web-dev {
+  margin-top: 20px;
+  height: 100px;
+  width: 100px;
+}
+.contact-image {
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 40px;
+}
+.pro {
+  text-decoration: underline;
+}
+.web-dev-image {
+  position: relative;
+  top: 16px;
+  height: 57px;
+  width: 57px;
+  float: left;
+  margin-right: 30px;
+}
+.C-image {
+  height: 57px;
+  width: 57px;
+  float: left;
+  margin-right: 30px;
+  position: relative;
+  top: 16px;
+}
+.python-image {
+  height: 57px;
+  width: 57px;
+  float: left;
+  margin-right: 30px;
+  position: relative;
+  top: 16px;
+}
+.java-image {
+  height: 57px;
+  width: 57px;
+  float: left;
+  margin-right: 30px;
+  position: relative;
+  top: 16px;
+}
+.attributions {
+  color: lightgray;
+}
+.line {
+  width: 2.5%;
+  border-style: dotted;
+  border-bottom: none;
+  border-width: 5px;
+  border-color: #c6d1d1;
+}
+.skills {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.contact-me {
+  margin-top: 50px;
+  line-height: 2;
+  margin-bottom: 50px;
+}
+.links {
+  word-spacing: 30px;
+}
+
+.footer-link:hover {
+  color: #def1f1;
+}
+.btn:link,
+btn:visited {
+  color: #eaf6f6;
+  background-color: #11999e;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 5px;
+}
+.btn:hover {
+  color: #eaf6f6;
+  background-color: #13adb3;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
